@@ -1,0 +1,8 @@
+{
+  "name": "MindShelter",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "b367472d"
+}
